@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.chat-display {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+.user-message {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 500px;
+}
